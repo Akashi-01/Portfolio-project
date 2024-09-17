@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://Akashi-01.github.com/Portfolio-project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://Akashi-01.github.com/Portfolio-project"
   },
   "author": "Microsoft",
   "license": "ISC",
