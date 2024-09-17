@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "https://img.freepik.com/free-vector/gradient-speed-motion-neon-background_23-2148965434.jpg?w=900&t=st=1726601995~exp=1726602595~hmac=ea506c8a0a7812c523a39d97bcbd7389d0ec88426bc9e59e3bbd811ed957cc7b";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a first year student with the dreams of working for a renowned and reputed company. And making education, skills and experience as useful to achieve the desired goals.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Programming Languages (HTML, CSS and C++)",
+  "Problem-solving skills",
+  "Adaptable to change",
+  "Focus on long-term goals",
+  "Manage time effectively",
+  "Teamwork",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Perfection is not attainable, but if we chase perfection we can catch excellence.";
 
 const About = () => {
   return (
